@@ -1,0 +1,30 @@
+body{
+    height: max-content;
+   
+    display: grid;
+    grid-auto-flow: 20% 70% 10%;
+    border: solid 2px black;
+}
+h1{
+    display: inline;
+    color: #00BFFF	;
+}
+#contenedor{
+    border: solid 2px #DC143C;
+    border-radius: 5px;
+    background-color: #F08080	;
+    display: grid;
+    justify-content: center;
+}
+#pokeName{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    
+    
+}
+#Boton{
+    margin-bottom: 10px;
+}
+#pokeImg{
+    margin-bottom: 10px;
+}
